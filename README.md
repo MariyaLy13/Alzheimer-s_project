@@ -11,7 +11,8 @@ This project investigates the factors commonly observed in patients with Alzheim
 2. Developing interactive dashboards and detailed visual reports in Tableau.
 ## Links:
 1. Data:
-  - https://drive.google.com/file/d/1e65Ek162tdTNdDctd5PIXlH1yXBVLi9o/view?usp=sharing
+  - https://drive.google.com/file/d/1e65Ek162tdTNdDctd5PIXlH1yXBVLi9o/view?usp=sharing (.csv)
+  - https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data (Kaggle)
 2. Jupyter notebook:
   - https://github.com/MariyaLy13/Alzheimer_project/blob/main/Alzheimer_EDA_notebook.ipynb
 3. Tableau dashboard:
