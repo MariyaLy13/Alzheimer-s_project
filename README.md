@@ -7,8 +7,8 @@ This project explores symptoms that are prevalent in patients with Alzheimer's d
 3. Tableau.
 4. GitHub.
 ## Project Workflow
-1. Data extraction, preparation, cleaning, transformation and exploratory analysis with visualization (Python).
-2. Creating interactive dashboards and visual reports (Tableau).
+1. Extracting, preparing, cleaning, and transforming data, followed by exploratory analysis and visualizations using Python.
+2. Developing interactive dashboards and detailed visual reports in Tableau.
 ## Links:
 1. Data:
   - https://drive.google.com/file/d/1e65Ek162tdTNdDctd5PIXlH1yXBVLi9o/view?usp=sharing
