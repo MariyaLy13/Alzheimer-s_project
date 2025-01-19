@@ -13,7 +13,7 @@ This project explores symptoms that are prevalent in patients with Alzheimer's d
 1. Data:
   - https://drive.google.com/file/d/1e65Ek162tdTNdDctd5PIXlH1yXBVLi9o/view?usp=sharing
 2. Jupyter notebook:
-   - https://github.com/MariyaLy13/Alzheimer_project/blob/main/Alzheimer_EDA_notebook.ipynb
+  - https://github.com/MariyaLy13/Alzheimer_project/blob/main/Alzheimer_EDA_notebook.ipynb
 3. Tableau dashboard:
   - https://public.tableau.com/app/profile/mariia.lysiak/viz/Alzheimers_Dashboard/Alzheimersdashboardpart1 (Tableau Public)
   - https://drive.google.com/file/d/18TgKZUzb4i0IUafi7xw3PR9tRnLJ6LCF/view?usp=sharing  (.pdf)
