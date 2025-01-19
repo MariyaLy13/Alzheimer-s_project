@@ -1,6 +1,6 @@
 # Alzheimer's Disease Exploratory Data Analysis
 ## Overview
-This project explores symptoms that are prevalent in patients with Alzheimer's disease. The analysis uses Python for data cleaning, pre-processing, data transformation, statistical calculations and building visualisations to understand dependencies, while Tableau is used to create interactive visualisations.
+This project investigates the factors commonly observed in patients with Alzheimer's disease. In my analysis, I'm using Python for tasks such as data cleaning, preprocessing, transformation, statistical calculations and visualisations to uncover patterns and dependencies. I also use Tableau to develop interactive and intuitive visualisations for deeper insights.
 ## Technologies Used
 1. Python (pandas, numpy, matplotlib, seaborn).
 2. Jupyter Notebook.
