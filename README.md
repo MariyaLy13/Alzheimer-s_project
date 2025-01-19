@@ -1,37 +1,23 @@
 # Alzheimer's Disease Exploratory Data Analysis
 ## Overview
 This project explores symptoms that are prevalent in patients with Alzheimer's disease. The analysis uses Python for data cleaning, pre-processing, data transformation, statistical calculations and building visualisations to understand dependencies, while Tableau is used to create interactive visualisations.
-## Project Workflow
-- Data Preparation
-- Data Cleaning
-- Data Transformation
-- Data Exploration and Analysis
--
-- 
 ## Technologies Used
-1. Python:
-- Libraries: pandas, numpy, matplotlib, seaborn
-- Used for data cleaning, transformation, and exploratory analysis.
-2. Jupyter Notebook:
-- Interactive environment for Python scripts and exploratory analysis.
-3. Tableau:
-- Visualization tool for creating interactive dashboards and visual reports.
-4. GitHub:
-- Version control and project sharing.
+1. Python (pandas, numpy, matplotlib, seaborn).
+2. Jupyter Notebook.
+3. Tableau.
+4. GitHub.
 ## Project Workflow
-1. Data Preparation (Python):
-- Load the raw dataset (.csv file) into a Jupyter Notebook.
-- Perform data cleaning (handling missing values, encoding, and normalization).
-- Calculate symptom prevalence rates by ethnicity using grouping and aggregation.
-2. Export Processed Data:
-- Save transformed datasets as .csv files using pandas.DataFrame.to_csv() for compatibility with Tableau.
-3. Visualization (Tableau):
-- Import processed .csv files into Tableau.
-- Create visualizations, such as:
-  - Bar Charts: Comparing symptom proportions by ethnicity.
-  - Heatmaps: Highlighting variations across symptoms and ethnic groups.
-  - Interactive Dashboards: Enabling filtering and deeper exploration.
-4. Insights and Conclusions:
+1. Data extraction, preparation, cleaning, transformation and exploratory analysis with visualization (Python).
+2. Creating interactive dashboards and visual reports (Tableau).
+## Links:
+1. Data:
+  - https://drive.google.com/file/d/1e65Ek162tdTNdDctd5PIXlH1yXBVLi9o/view?usp=sharing
+2. Jupyter notebook:
+   - https://github.com/MariyaLy13/Alzheimer_project/blob/main/Alzheimer_EDA_notebook.ipynb
+3. Tableau dashboard:
+  - https://public.tableau.com/app/profile/mariia.lysiak/viz/Alzheimers_Dashboard/Alzheimersdashboardpart1 (Tableau Public)
+  - https://drive.google.com/file/d/18TgKZUzb4i0IUafi7xw3PR9tRnLJ6LCF/view?usp=sharing  (.pdf)
+## Insights and Conclusions:
 - The analysed dataset contains information on 760 patients with Alzheimer's disease (35.4%) and 1389 patients without Alzheimer's disease (64.6%).
 - 50.8% of patients with Alzheimer's disease are male and 49.2% are female.
 - The largest group of patients have Caucasian ethnicity - 1278 people (32.2% diagnosed with Alzheimer's disease), but Asians have the highest percentage of diagnosed Alzheimer's disease - 40.8%.
@@ -48,7 +34,4 @@ This project explores symptoms that are prevalent in patients with Alzheimer's d
   - Asians - 25.0%.
   - Other - 20.9%.
 - African Americans report higher rates of confusion (21.9%) than others. Asians have the highest rate of difficulty in completing tasks (23.8%)
-
-The primary goal is to identify patterns in symptom prevalence, aiding in the development of culturally sensitive diagnostic tools and treatments.
-Tableau dashboard - https://public.tableau.com/app/profile/mariia.lysiak/viz/Alzheimers_Dashboard/Alzheimersdashboardpart1
 
